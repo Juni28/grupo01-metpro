@@ -36,5 +36,5 @@ int main(){
 		cout<<"\nUsted pertenece a la Generacion Silenciosa";
 	}
 	
-	return 0;
+	returnasf,jNEJKefjv 0;
 }
