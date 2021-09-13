@@ -4,7 +4,7 @@ using namespace std;
 
 int sebastian(){
 	int n1,n2, suma=0 , resta=0, multiplicacion=0, division=0;
-	cout<<"ingresa el primer numero";cin>>n1;
+	cout<<"\ningresa el primer numero";cin>>n1;
 	cout<<"ingresa el segundo numero";cin>>n2;
 	suma=n1+n2;
 	resta=n1-n2;
@@ -21,7 +21,7 @@ int sebastian(){
 int alejandro(){
 	int n1,n2,n3;
 	
-	cout<<"Digite 3 numeros: ";
+	cout<<"\nDigite 3 numeros: ";
 	cin>>n1>>n2>>n3;
 	
 	
@@ -44,8 +44,7 @@ int alejandro(){
 int andrea(){
 	int opc,numero,cubo;
 	
-	
-	cout<<" \tMenu"<<endl;
+	cout<<"\n \tMenu"<<endl;
 	cout<<"1. Cubo de un numero"<<endl;
 	cout<<"2. Numero par o impar"<<endl;
 	cout<<"Opción: ";
@@ -75,7 +74,7 @@ int andrea(){
 
 int junior(){
   	int n1,n2, suma =0 , resta= 0 , multiplicacion =0 , division=0;
-	cout<<"Digite un numero: "; cin>>n1;
+	cout<<"\nDigite un numero: "; cin>>n1;
 	cout<<"Digite otro numero: "; cin>>n2;
 	
 	suma= n1+ n2;
@@ -92,8 +91,8 @@ int junior(){
 }
 
 int main(){
-	cout<<junior();
-	cout<<andrea();
-	cout<<alejandro();
-	cout<<sebastian();
+	cout<<"\n"<<junior()<<endl;
+	cout<<"\n"<<andrea()<<endl;
+	cout<<"\n"<<alejandro()<<endl;
+	cout<<"\n"<<sebastian()<<endl;
 }
