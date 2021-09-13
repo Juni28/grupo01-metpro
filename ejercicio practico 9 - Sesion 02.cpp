@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
 	//me perdonas? :3
+	// awa de uwu
 	int edad;
 	cout<<"Digite su edad [0-99]: "; cin>>edad;
 	while(edad<0 || edad>99){
