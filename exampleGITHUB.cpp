@@ -91,8 +91,8 @@ int junior(){
 }
 
 int main(){
-	cout<<junior
-	cout<<andrea
-	cout<<alejandro
-	cout<<sebastian
+	cout<<junior;
+	cout<<andrea;
+	cout<<alejandro;
+	cout<<sebastian;
 }
