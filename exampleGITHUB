@@ -17,7 +17,7 @@ int(sebastian){
 	return 0;
 
 }
-int alejandro(){
+int(alejandro){
 int n1,n2,n3;
 	
 	cout<<"Digite 3 numeros: ";
@@ -66,8 +66,10 @@ int andrea(){
 			}
 			break;
 	    case 3:break;
-	}       
+	} 
 	
+      return 0;
+      
 }
 
 int junior(){
