@@ -1,5 +1,6 @@
 #include <iostream>
-using namespace std
+#include <math.h>
+using namespace std;
 
 int sebastian(){
 	int n1,n2, suma=0 , resta=0, multiplicacion=0, division=0;
