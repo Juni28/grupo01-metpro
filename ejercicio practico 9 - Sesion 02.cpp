@@ -3,13 +3,13 @@ using namespace std;
 int main(){
 	//me perdonas? :3
 	// awa de uwu
-	// kat es mia 7u7 , :v
+	// kat es mia 7u7 , :v 
 	int edad;
 	cout<<"Digite su edad [0-99]: "; cin>>edad;
 	while(edad<0 || edad>99){
 		cout<<"Esta edad no pertenece a ningun rango generacional.\nDigite nuevamente su edad [0-99]: "; cin>>edad;	
 	}
-	
+	// uwu
 	if (edad>=0 && edad<7){
 		cout<<"Usted nacio entre el 2011 - 2017";
 		cout<<"\nUsted pertenece a la Generacion Alfa";
@@ -18,6 +18,7 @@ int main(){
 		cout<<"Usted nacio entre el 2001 - 2010";
 		cout<<"\nUsted pertenece a la Generacion Z";
 	}
+//
 	else if(edad>=17 && edad<34){
 		cout<<"Usted nacio entre el 1984 - 2000";
 		cout<<"\nUsted pertenece a la Generacion Y - Milenials";
